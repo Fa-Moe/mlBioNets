@@ -21,8 +21,8 @@ Imports:
     ggpubr,
     viridis,
     phyloseq,
-    muxViz
-    SpiecEasi
+    muxViz,
+    SpiecEasi,
     seqtime
 Remotes:
     github::manlius/muxViz,
