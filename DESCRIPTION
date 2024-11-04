@@ -20,9 +20,10 @@ Imports:
     igraph,
     ggpubr,
     viridis,
-    phyloseq
+    phyloseq,
+    SpiecEasi
 Remotes:
-    github::manlius/muxViz,
+    git::https://github.com/manlius/muxViz.git,
     github::hallucigenia-sparsa/seqtime,
     github::zdk123/SpiecEasi
 RoxygenNote: 7.3.2
