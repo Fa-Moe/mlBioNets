@@ -21,9 +21,11 @@ Imports:
     ggpubr,
     viridis,
     phyloseq,
+    muxViz
     SpiecEasi
+    seqtime
 Remotes:
-    git::https://github.com/manlius/muxViz.git,
+    github::manlius/muxViz,
     github::hallucigenia-sparsa/seqtime,
     github::zdk123/SpiecEasi
 RoxygenNote: 7.3.2
